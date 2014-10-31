@@ -24,6 +24,7 @@ public class Main extends JFrame
 			
 			public void actionPerformed(ActionEvent arg0)
 			{
+				// shows a pretty Dialog 
 				showBranchDialog();
 				
 			}
