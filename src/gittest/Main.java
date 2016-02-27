@@ -11,6 +11,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
+// Kommentar
 public class Main extends JFrame
 {
 	public Main()
