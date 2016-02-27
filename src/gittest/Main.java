@@ -11,7 +11,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
-// Kommentar editiert
+// Kommentar editiert und nochma
 public class Main extends JFrame
 {
 	public Main()
